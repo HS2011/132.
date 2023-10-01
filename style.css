@@ -1,0 +1,9 @@
+.ancho{
+    background-color: aliceblue;
+    font-size: 14px;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 500px !important;
+    height:100px
+}
